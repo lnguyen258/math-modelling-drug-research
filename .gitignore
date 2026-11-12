@@ -10,6 +10,5 @@ experiment/slides/*.snm
 experiment/slides/*.toc
 experiment/slides/*.fls
 experiment/slides/*.fdb_latexmk
-experiment/slides/*.pdf
 .claude/
 graphify-out/
