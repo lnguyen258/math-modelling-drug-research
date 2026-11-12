@@ -1,0 +1,15 @@
+﻿.venv/
+.env
+__pycache__/
+*.pyc
+experiment/slides/*.aux
+experiment/slides/*.log
+experiment/slides/*.nav
+experiment/slides/*.out
+experiment/slides/*.snm
+experiment/slides/*.toc
+experiment/slides/*.fls
+experiment/slides/*.fdb_latexmk
+experiment/slides/*.pdf
+.claude/
+graphify-out/
